@@ -45,25 +45,25 @@
     </section>
     <section name="Lunch">
         <entry>
-            <item>Poached Eggs</item>
-            <price>8.00</price>
+            <item>Grilled Chicken Sandwich</item>
+            <price>7.99</price>
         </entry>
         <entry>
             <item>Poached Eggs</item>
             <price>8.00</price>
         </entry>
         <entry vegetarian="true">
-            <item>French Toast</item>
-            <price>2.00</price>
+            <item>Feijoada</item>
+            <price>12.00</price>
         </entry>
     </section>
     <section name="Dinner"> 
         <entry>
-            <item>Sushi</item>
-            <price>8.00</price>
+            <item>Ribeye Steak</item>
+            <price>19.90</price>
         </entry>
         <entry>
-            <item>Poached Eggs</item>
+            <item>Sushi</item>
             <price>8.00</price>
         </entry>
         <entry vegetarian="true">
